@@ -1,0 +1,17 @@
+div.zaki_sitemap_page div.updated {
+    padding:5px;
+}
+
+div.zaki_sitemap_page form table.form-table tbody tr td div.exclbox {
+    border:1px solid #ccc;
+    background-color:#eeeeee;
+    padding:5px;
+    width:600px;
+    height:100px;
+    overflow:auto;
+}
+
+div.zaki_sitemap_page form table.form-table tbody tr td div.exclbox input {
+    border-bottom:1px dotted #ccc;
+}
+
